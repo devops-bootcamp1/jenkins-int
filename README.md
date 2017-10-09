@@ -1,3 +1,3 @@
 # jenkins-int
-int4
+int6
 
